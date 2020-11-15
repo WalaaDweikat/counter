@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Zilla+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+#items{
+  display: block;
+  color:white;
+  background-color: #16a2b8;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-right: 5px;
+  width:40px;
+  height: 17px;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+  font-size:15px;
+}
+
+.header{
+  display: flex;
+  width:100%;
+  background-color: #f9f9fb;
+  height:40px;
+  align-items: center;
+  
+}
+
+.icon{
+  margin-left: 30px;
+}
+
+.refresh{
+  margin-top: 10px;
+  background-color: #2d9547;
+  border-radius: 3px;
+  border:1px solid #2d9547 ;
+  height:27px;
+  width:30px;
+}
+
+.syncIcon{
+  color: white;
+}
+
+.countNum{
+  display: block;
+  text-align: center;
+  margin-right: 15px;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #ffc109;
+  border-radius: 3px;
+  border:1px solid #ffc109;
+  font-size: 20px;
+  width: fit-content;
+
+}
+
+.inc{
+  border-radius: 3px;
+  border:1px solid #6d747d;
+  background-color:#6d747d;
+
+}
+.dec{
+  margin-left: 5px;
+  border-radius: 3px;
+  border:1px solid #68c3d2;
+  background-color:#68c3d2;
+}
+
+.counters{
+  margin-left: 20vw;
+}
+
+.c {
+  display: flex;
+}
+
+.first_counter{
+  margin-top: 20px;
+}
+
+.second_counter{
+  margin-top: 10px;
+}
+
+.third_counter{
+  margin-top: 10px;
+}
+
+.a{
+  width: 65px;
+}
+
